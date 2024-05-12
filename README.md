@@ -16,7 +16,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shamelbhimani/">
-    <img width="88px" alt="LinkedIn Button" title="Connect with me" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%230077B5.svg?logo=linkedin?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>"/>
+    <img width="88px" alt="LinkedIn Button" title="Connect with me" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%230077B5.svg?logo=linkedin?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
 </p>  
 #

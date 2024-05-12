@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/shamelbhimani">
-    <img src="<link>" alt="Shamel Bhimani" /></a>
+    <img src="https://github.com/shamelbhimani/shamelbhimani/blob/main/images/Name.png" alt="Shamel Bhimani" /></a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=30&pause=1000&color=EFE9E1&random=false&width=435&lines=Shamel+Bhimani)](https://git.io/typing-svg)

@@ -3,7 +3,7 @@
     <img src="<link>" alt="Shamel Bhimani" /></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=30&pause=1000&random=false&width=435&lines=Shamel+Bhimani)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=30&pause=1000&color=EFE9E1&random=false&width=435&lines=Shamel+Bhimani)](https://git.io/typing-svg)
 
 **`Current Role: Data Science Intern - Business and Marketing`**
 

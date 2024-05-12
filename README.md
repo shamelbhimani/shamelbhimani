@@ -12,7 +12,7 @@
 
 📈 Data Scientist passionate about leveraging data to optimize processes and maximize efficiency, improve revenue generation, and create capacity for firm expansion. Skilled in Python and Machine Learning, I contribute to data-driven decision-making, while my passion for AI translates into engaging content on industry developments.
 
-<summary><h2>Fun Facts</h2></summary>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=30&pause=1000&color=AC9C8D&center=true&random=false&width=435&lines=Fun+Facts" alt="Typing SVG" /></a>
 🏛️ HBA Candidate at the University of Toronto for Political Science.<br>📘  I’m currently learning Natural Language Processing (NLP), and Financial and Managerial Accounting.<br>🖊️ Working on a paper: "Comparing Capital Financing Strategies in the Hotel Industry: How Marriot Beat Bankruptcy"<br>⚡ Working on a project: "Topic Modelling E-Commerce related questions left on social media comment section"
 
 <p align="left">

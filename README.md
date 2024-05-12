@@ -12,7 +12,8 @@
 
 📈 Data Scientist passionate about leveraging data to optimize processes and maximize efficiency, improve revenue generation, and create capacity for firm expansion. Skilled in Python and Machine Learning, I contribute to data-driven decision-making, while my passion for AI translates into engaging content on industry developments.
 
-<br>🏛️ HBA Candidate at the University of Toronto for Political Science.<br>📘  I’m currently learning Natural Language Processing (NLP), and Financial and Managerial Accounting.<br>🖊️ Working on a paper: "Comparing Capital Financing Strategies in the Hotel Industry: How Marriot Beat Bankruptcy"<br>⚡ Working on a project: "Topic Modelling E-Commerce related questions left on social media comment section"
+<summary><h2>Fun Facts</h2></summary>
+🏛️ HBA Candidate at the University of Toronto for Political Science.<br>📘  I’m currently learning Natural Language Processing (NLP), and Financial and Managerial Accounting.<br>🖊️ Working on a paper: "Comparing Capital Financing Strategies in the Hotel Industry: How Marriot Beat Bankruptcy"<br>⚡ Working on a project: "Topic Modelling E-Commerce related questions left on social media comment section"
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shamelbhimani/">

@@ -3,6 +3,8 @@
     <img src="<link>" alt="Shamel Bhimani" /></a>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=30&pause=1000&random=false&width=435&lines=Shamel+Bhimani)](https://git.io/typing-svg)
+
 **`Current Role: Data Science Intern - Business and Marketing`**
 
 📈 Data Scientist passionate about leveraging data to optimize processes and maximize efficiency, improve revenue generation, and create capacity for firm expansion. Skilled in Python and Machine Learning, I contribute to data-driven decision-making, while my passion for AI translates into engaging content on industry developments.

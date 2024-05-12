@@ -1,6 +1,6 @@
 # 💫 Shamel Bhimani:
 
-**Data Scientist**
+**`Current Role: Data Science Intern - Business and Marketing`**
 
 📈 Data Scientist passionate about leveraging data to optimize processes and maximize efficiency, improve revenue generation, and create capacity for firm expansion. Skilled in Python and Machine Learning, I contribute to data-driven decision-making, while my passion for AI translates into engaging content on industry developments.
 

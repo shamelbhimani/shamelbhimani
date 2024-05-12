@@ -15,8 +15,8 @@
 <br>🏛️ HBA Candidate at the University of Toronto for Political Science.<br>📘  I’m currently learning Natural Language Processing (NLP), and Financial and Managerial Accounting.<br>🖊️ Working on a paper: "Comparing Capital Financing Strategies in the Hotel Industry: How Marriot Beat Bankruptcy"<br>⚡ Working on a project: "Topic Modelling E-Commerce related questions left on social media comment section"
 
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/shamelbhimani/">
-    <img alt="LinkedIn Button" title="Connect with me" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/shamelbhimani/">
+    <img width="88px" alt="LinkedIn Button" title="Connect with me" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%230077B5.svg?logo=linkedin?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>"/>
   </a>
 </p>  
 #

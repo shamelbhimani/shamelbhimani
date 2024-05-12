@@ -13,6 +13,8 @@
 
 📈 Data Scientist passionate about leveraging data to optimize processes and maximize efficiency, improve revenue generation, and create capacity for firm expansion. Skilled in Python and Machine Learning, I contribute to data-driven decision-making, while my passion for AI translates into engaging content on industry developments.
 
+
+
 <p align="left">
   <a>
     <img src="https://github.com/shamelbhimani/shamelbhimani/blob/main/images/Screenshot_14.png" alt="Fun Facts" />
@@ -22,7 +24,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shamelbhimani/">
-    <img width="88px" alt="LinkedIn Button" title="Connect with me" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%230077B5.svg?logo=linkedin?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    <img width="88px" alt="LinkedIn Button" title="Connect with me" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%230077B5.svg?logo=linkedin&color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
 </p>  
 #

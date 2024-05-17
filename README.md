@@ -9,7 +9,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=30&pause=1000&color=DDD9CE&center=true&random=false&width=435&lines=Data+Scientist" alt="Typing SVG" /></a>
 </p>
 
-**`Current Role: Data Science Intern - Business and Marketing`**
+**`Previous Roles: Data Science Intern - Business and Marketing @ Mastrat`**
 
 📈 Data Scientist passionate about leveraging data to optimize processes and maximize efficiency, improve revenue generation, and create capacity for firm expansion. Skilled in Python and Machine Learning, I contribute to data-driven decision-making, while my passion for AI translates into engaging content on industry developments.
 

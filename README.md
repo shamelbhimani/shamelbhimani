@@ -22,7 +22,7 @@
 
 <p>
   <a>
-    🏛️ HBA Candidate at the University of Toronto for Political Science.<br>📘  I’m currently learning Natural Language Processing (NLP), and Financial and Managerial Accounting.<br>🖊️ Working on a paper: "Comparing Capital Financing Strategies in the Hotel Industry: How Marriot Beat Bankruptcy"<br>⚡ Working on a project: "Twitter Analytics Dashboard with Grafana | Twitter API v2"
+    🏛️ HBA Candidate at the University of Toronto for Political Science.<br>📘  I’m currently learning Natural Language Processing (NLP), Financial Accounting, Corporate Finance, and Macroeconomics.<br>🖊️ Working on a paper: "Comparing Capital Financing Strategies in the Hotel Industry: How Marriot Beat Bankruptcy"<br>⚡ Working on a project: "Twitter Analytics Dashboard with Grafana | Twitter API v2"
   </a>
 </p> 
 

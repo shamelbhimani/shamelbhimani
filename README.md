@@ -4,10 +4,7 @@
   </a>
 </p>
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=30&pause=1000&color=DDD9CE&center=true&random=false&width=435&lines=Data+Scientist" alt="Typing SVG" /></a>
-</p>
+
 
 **`Current Role: Data Analyst - Marketing Research @ SquadOps`**
 

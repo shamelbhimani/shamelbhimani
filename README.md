@@ -10,6 +10,7 @@
 </p>
 
 **`Current Role: Data Analyst - Marketing Research @ SquadOps`**
+
 **`Previous Roles: Data Analyst Intern - Marketing and Operations @ Mastrat`**
 
 💡 Hi, I'm Shamel. I help organizations make data-driven decisions by combining quantitative research, predictive analytics, and economic intelligence to create measurable impact. Proficient in Python, SQL, Tableau, and advanced data visualization. I transform complex datasets into strategies that optimize revenue, scale operations, and inform executive strategy.

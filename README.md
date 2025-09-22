@@ -11,7 +11,18 @@
 
 **`Previous Roles: Data Science Intern - Business and Marketing @ Mastrat`**
 
-📈 Data Scientist passionate about leveraging data to optimize processes and maximize efficiency, improve revenue generation, and create capacity for firm expansion. Skilled in Python and Machine Learning, I contribute to data-driven decision-making, while my passion for AI translates into engaging content on industry developments.
+💡 Hi, I'm Shamel. I help organizations make data-driven decisions by combining quantitative research, predictive analytics, and economic intelligence to create measurable impact. Proficient in Python, SQL, Tableau, and advanced data visualization. I transform complex datasets into strategies that optimize revenue, scale operations, and inform executive strategy.
+
+
+📊 Skills and Expertise:
+
+✅ Data Analytics & Business Intelligence – SQL, Python, Tableau, Excel
+
+✅ Statistical Modeling & Predictive Analytics – quantitative forecasting, performance modeling
+
+✅ Market Research & Campaign Optimization – ROI analysis, engagement insights, audience segmentation
+
+✅ Process Improvement – operational efficiency modeling, task allocation optimization
 
 
 <p align="left">
@@ -20,11 +31,7 @@
   </a>
 </p>
 
-<p>
-  <a>
-    🏛️ HBA Candidate at the University of Toronto for Political Science.<br>📘  I’m currently learning Natural Language Processing (NLP), Financial Accounting, Corporate Finance, and Macroeconomics.<br>🖊️ Working on a paper: "Comparing Capital Financing Strategies in the Hotel Industry: How Marriot Beat Bankruptcy"<br>⚡ Working on a project: "Twitter Analytics Dashboard with Grafana | Twitter API v2"
-  </a>
-</p> 
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shamelbhimani/">
@@ -35,5 +42,4 @@
 ---
 
 # 👨‍💻 Technologies:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)

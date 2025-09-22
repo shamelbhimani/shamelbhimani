@@ -27,13 +27,6 @@
 ✅ Process Improvement – operational efficiency modeling, task allocation optimization
 
 
-<p align="left">
-  <a>
-    <img src="https://github.com/shamelbhimani/shamelbhimani/blob/main/images/Screenshot_14.png" alt="Fun Facts" />
-  </a>
-</p>
-
-
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shamelbhimani/">

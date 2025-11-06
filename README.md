@@ -10,19 +10,16 @@
 
 **`Previous Roles: Data Analyst Intern - Marketing and Operations @ Mastrat`**
 
-💡 Hi, I'm Shamel. I help organizations make data-driven decisions by combining quantitative research, predictive analytics, and economic intelligence to create measurable impact. Proficient in Python, SQL, Tableau, and advanced data visualization. I transform complex datasets into strategies that optimize revenue, scale operations, and inform executive strategy.
+Hi, I'm Shamel. I help organizations make data-driven decisions by combining quantitative research, predictive analytics, and economic intelligence to create measurable impact. Proficient in Python, SQL, Tableau, and advanced data visualization. I transform complex datasets into strategies that optimize revenue, scale operations, and inform executive strategy.
 
 
-📊 Skills and Expertise:
+Skills: Data Analysis & Visualization, Statistical Modeling, SQL & Database Management, ETL Pipelines, Machine Learning (Regression, Classification), Business Analytics, Performance Metrics, API Integration
 
-✅ Data Analytics & Business Intelligence – SQL, Python, Tableau, Excel
+Languages: Python, SQL, MySQL, PostgreSQL, R 
 
-✅ Statistical Modeling & Predictive Analytics – quantitative forecasting, performance modeling
+Tools: PyCharm, Neovim, Tableau, Git, REST API, FastAPI, Jupyter Notebooks, Quarto, LaTeX, Excel
 
-✅ Market Research & Campaign Optimization – ROI analysis, engagement insights, audience segmentation
-
-✅ Process Improvement – operational efficiency modeling, task allocation optimization
-
+Libraries: NumPy, pandas, scipy, matplotlib, scikit-learn, uv, ruff, requests, configparser, pathlib, pydantic, mysql-connector-python, sqlalchemy, logging, built-ins, tidyverse, ggplot2, socviz
 
 
 <p align="left">

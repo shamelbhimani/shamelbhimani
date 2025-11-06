@@ -1,34 +1,65 @@
-<p align="center">
-  <a href="https://github.com/shamelbhimani">
-    <img src="https://github.com/shamelbhimani/shamelbhimani/blob/main/images/Name.png" alt="Shamel Bhimani" />
-  </a>
-</p>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=111&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=57&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=62&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
+###
 
+<h1 align="center">Hey, I'm Shamel 👋</h1>
 
-**`Current Role: Data Analyst - Marketing Research @ SquadOps`**
+###
 
-**`Previous Roles: Data Analyst Intern - Marketing and Operations @ Mastrat`**
+<h4 align="left">I  help organizations make data-driven decisions by combining quantitative research, predictive analytics, and economic intelligence to create measurable impact. Proficient in Python, SQL, Tableau, and advanced data visualization. I transform complex datasets into strategies that optimize revenue, scale operations, and inform executive strategy.<br><br>Skills: Data Analysis & Visualization, Statistical Modeling, SQL & Database Management, ETL Pipelines, Machine Learning (Regression, Classification), Business Analytics, Performance Metrics, API Integration<br><br>Languages: Python, SQL, MySQL, PostgreSQL, R<br><br>Tools: PyCharm, Neovim, Tableau, Git, REST API, FastAPI, Jupyter Notebooks, Quarto, LaTeX, Excel<br><br>Libraries: NumPy, pandas, scipy, matplotlib, scikit-learn, uv, ruff, requests, configparser, pathlib, pydantic, mysql-connector-python, sqlalchemy, logging, built-ins, tidyverse, ggplot2, socviz</h4>
 
-Hi, I'm Shamel. I help organizations make data-driven decisions by combining quantitative research, predictive analytics, and economic intelligence to create measurable impact. Proficient in Python, SQL, Tableau, and advanced data visualization. I transform complex datasets into strategies that optimize revenue, scale operations, and inform executive strategy.
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="60" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="60" alt="pytest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="60" alt="sqlalchemy logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="60" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="60" alt="fedora logo"  />
+</div>
 
-Skills: Data Analysis & Visualization, Statistical Modeling, SQL & Database Management, ETL Pipelines, Machine Learning (Regression, Classification), Business Analytics, Performance Metrics, API Integration
+###
 
-Languages: Python, SQL, MySQL, PostgreSQL, R 
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</div>
 
-Tools: PyCharm, Neovim, Tableau, Git, REST API, FastAPI, Jupyter Notebooks, Quarto, LaTeX, Excel
+###
 
-Libraries: NumPy, pandas, scipy, matplotlib, scikit-learn, uv, ruff, requests, configparser, pathlib, pydantic, mysql-connector-python, sqlalchemy, logging, built-ins, tidyverse, ggplot2, socviz
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shamelbhimani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=shamelbhimani&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shamelbhimani&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
+###
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shamelbhimani/">
-    <img width="88px" alt="LinkedIn Button" title="Connect with me" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>  
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=111&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=67&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=62&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
----
-
-# 👨‍💻 Technologies:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+###

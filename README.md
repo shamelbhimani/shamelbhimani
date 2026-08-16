@@ -42,14 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="60" alt="fedora logo"  />
 </div>
 
-###
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shamelbhimani&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=111&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=67&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=62&descAlignY=50&textBg=false&color=gradient"  />
 </div>
